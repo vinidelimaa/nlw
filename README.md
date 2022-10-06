@@ -7,7 +7,7 @@
 
 Project built at the Next Level Week Rocketseat event.
 
-[Clique aqui para acessar](https://vinidelimaa.github.io/nlw-esports-explorer) 🔗
+[Clique aqui para acessar](https://vinidelimaa.github.io/nlw/) 🔗
 
 ## Technologies 🛠
 
